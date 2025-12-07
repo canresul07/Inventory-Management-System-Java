@@ -26,7 +26,7 @@ Database: SQLite
 
 Clone the repository
 
-git clone https://github.com/ArdaDemirr/Java-Inventory-Management-System.git
+git clone https://github.com/canresul07/Inventory-Management-System-Java
 
 Open the project Open the folder in your preferred Java IDE (VScode is recommended).
 
@@ -43,3 +43,4 @@ Diagrams:
 [Uml Diagram.pdf](https://github.com/user-attachments/files/24016379/Uml.Diagram.pdf)
 
 [Sequence Diagram.pdf](https://github.com/user-attachments/files/24016385/Sequence.Diagram.pdf)
+
